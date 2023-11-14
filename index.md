@@ -4,7 +4,7 @@ If you are interested in learning more about Genomics Aotearoa, please visit our
 
 [https://www.genomics-aotearoa.org.nz/](https://www.genomics-aotearoa.org.nz/)
 
-We maintain a mix of public and private GitHub repositories, with private repositories only accessible to members of the GA oragnisation. If you are part of a GA project team, and need to be added to the GA organisation, please contact [Mik Black](https://github.com/mikblack).  
+We maintain a mix of public and private GitHub repositories, with private repositories only accessible to members of the GA organisation. If you are part of a GA project team, and need to be added to the GA organisation, please contact [Mik Black](https://github.com/mikblack).  
 
 If you are a GA team member, and would like some guidance on contribiting to our GitHub repositories, please see: 
 
